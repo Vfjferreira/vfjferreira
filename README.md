@@ -20,5 +20,4 @@
   
   ##
   
-![Animação de cobra]
-(https://github.com/Vfjferreira/Vfjferreira/blob/output/github-contribution-grid-snake.svg)
+
