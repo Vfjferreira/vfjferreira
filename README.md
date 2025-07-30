@@ -1,7 +1,7 @@
 ## VFJFERREIRA
 
 - 🔭 
-- 🌱 Estudando Front-end 
+- 🌱  
 - 📺 
   
 ##
